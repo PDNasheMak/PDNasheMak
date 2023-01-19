@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PDNasheMak
 - 👀 I’m a Software Engineer
-- 🌱 I love flutter
-- 💞️ Lets change the worl with technology
+- 🌱 Flutter
 - 📫 Contact meat : pdnashe@zoho.com
 - Flutter / Dart / .Net / C#
 
