@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PDNasheMak
 - 👀 I’m a Software Engineer
 - 🌱 Flutter
-- 📫 Contact meat : pdnashe@zoho.com
-- Flutter / Dart / .Net / C#
+- 📫 Contact me : pdnashe@zoho.com
+- Python / Flutter / Dart / .Net / C# /Django
 
 <!---
 PDNasheMak/PDNasheMak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
